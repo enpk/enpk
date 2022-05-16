@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Evan Pollak</h1>
-<h3 align="center">A passionate backend developer from the US</h3>
+<h3 align="center">🪐Backend Dev studying at BloomTech🪐</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evanpollak&label=Profile%20views&color=0e75b6&style=flat" alt="evanpollak" /> </p>
 
 - 🔭 I’m currently working on [StolenSugar](https://github.com/stolen-sugar/stolen-sugar)
 
-- 🌱 I’m currently learning **LeetCode**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **Java, AWS Lambda, REST APIs**
 
