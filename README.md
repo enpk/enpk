@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [StolenSugar](https://github.com/stolen-sugar/stolen-sugar)
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 💬 Ask me about **Java, AWS Lambda, REST APIs**
 
